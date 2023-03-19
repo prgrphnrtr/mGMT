@@ -100,11 +100,11 @@ const config = {
             items: [
               {
                 label: 'Kontakt',
-                to: '/docs/kontakt',
+                to: 'https://twitter.com/prgrfnrtr',
               },
               {
                 label: 'Impressum',
-                to: '/docs/rechtliches',
+                to: 'https://twitter.com/prgrfnrtr',
               },
             ],
           },
