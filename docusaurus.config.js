@@ -71,17 +71,6 @@ const config = {
             label: 'mGMT',
           },
           {
-            type: 'dropdown',
-            position: 'left',
-            label: 'Projects',
-            items: [            
-              {
-              label: 'mGMT',
-              to: 'mgmt',
-              }
-            ],
-          },
-          {
             to: '/blog', 
             label: 'Blog', 
             position: 'left'
@@ -114,11 +103,11 @@ const config = {
 
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/prgrfnrtr',
+                href: 'https://discordapp.com/invite/prgrphnrtr',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/prgrfnrtr',
+                href: 'https://twitter.com/prgrphnrtr',
               },
             ],
           },
