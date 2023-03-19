@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Der Paragraphenreiter',
+  title: 'Paragraphenreiter',
   tagline: '',
   url: 'http://www.derparagraphenreiter.de/',
   baseUrl: '/',
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Paragraphenreiter',
+        title: '',
         logo: {
           alt: 'Logo',
           src: 'img/prider.png',
@@ -66,9 +66,9 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: 'WebDev/WebDev',
+            docId: 'mGMT/index',
             position: 'left',
-            label: 'Docs',
+            label: 'mGMT',
           },
           {
             type: 'dropdown',
@@ -78,7 +78,7 @@ const config = {
               {
               label: 'mGMT',
               to: 'mgmt',
-              },
+              }
             ],
           },
           {
