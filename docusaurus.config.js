@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  // organizationName: 'msiebels', // Usually your GitHub org/user name.
-  // projectName: 'mRepo', // Usually your repo name.
+  organizationName: 'prgrphnrtr', // Usually your GitHub org/user name.
+  projectName: 'mlaw', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
-          //  'https://github.com/m-Siebels/mPublic/tree/main/packages/create-docusaurus/templates/shared/',
+          //  'https://github.com/prgrphnrtr/mPublic/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Der Paragraphenreiter',
+        title: 'Paragraphenreiter',
         logo: {
           alt: 'Logo',
           src: 'img/prider.png',
@@ -73,11 +73,11 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Select',
+            label: 'Projects',
             items: [            
               {
-              label: 'Testpage',
-              to: 'testpage',
+              label: 'mGMT',
+              to: 'mGMT',
               },
             ],
           },
@@ -100,11 +100,11 @@ const config = {
             items: [
               {
                 label: 'Kontakt',
-                to: 'https://twitter.com/prgrfnrtr',
+                to: 'kontakt',
               },
               {
                 label: 'Impressum',
-                to: 'https://twitter.com/prgrfnrtr',
+                to: 'legal',
               },
             ],
           },
