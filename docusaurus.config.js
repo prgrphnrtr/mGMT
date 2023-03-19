@@ -77,7 +77,7 @@ const config = {
             items: [            
               {
               label: 'mGMT',
-              to: 'mGMT',
+              to: 'mgmt',
               },
             ],
           },
