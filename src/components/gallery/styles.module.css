@@ -1,0 +1,15 @@
+.features {
+  display: flex;
+  align-items:center;
+  padding: 4rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 300px;
+  width: 300px;
+}
+
+.cardxtra {
+  padding: 20px;
+}

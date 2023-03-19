@@ -49,3 +49,27 @@
 .yellow[aria-selected='true'] {
   border-bottom-color: yellow;
 }
+
+.purple-text {
+
+  color: rebeccapurple;
+}
+
+.bt-green {
+  background-color: #169013;
+  color: rgb(16, 244, 0);
+}
+
+.bt-blue {
+  background-color: #04006a;
+  color: rgb(255, 221, 0);
+}
+
+.bt-red {
+  background-color: #901713;
+  color: rgb(255, 221, 0);
+}
+.bt-yellow {
+  background-color: #eeff00;
+  color: rgb(255, 221, 0);
+}
