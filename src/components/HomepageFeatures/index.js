@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Pragmatisch.',
+    title: 'Your Projects.',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        mGMT helps you to maintain control and overview over your projects.
       </>
     ),
   },
   {
-    title: 'Taktisch.',
+    title: 'Your Data.',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        mGMT is built to work with your data which is being created when using SharePoint functionalities. 
+        SharePoint Document Libraries and Lists which teams can use to collaborate and keep the information in one place.
+    
       </>
     ),
   },
   {
-    title: 'Gut.',
+    title: 'Your Way.',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        A particular taste? PowerBI Reports are highly flexible and customizable. You can see your data your way.
       </>
     ),
   },
