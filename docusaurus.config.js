@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
-          //  'https://github.com/m-Siebels/mPublic/tree/main/packages/create-docusaurus/templates/shared/',
+          //  'https://github.com/.../.../tree/main/packages/create-docusaurus/templates/shared/',
         },
         // WICHTIG
         theme: {
@@ -128,14 +128,14 @@ const config = {
         darkTheme: darkCodeTheme,
       },
 
-      announcementBar: {
-        id: 'support_me',
-        content:
-          'This is an announcement!',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
-        isCloseable: true,
-      },
+      // announcementBar: {
+      //   id: 'support_me',
+      //   content:
+      //     'This is an announcement!',
+      //   backgroundColor: '#fafbfc',
+      //   textColor: '#091E42',
+      //   isCloseable: true,
+      // },
       themes: 
         ['@docusaurus/theme-live-codeblock'],
 
